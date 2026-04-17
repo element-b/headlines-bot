@@ -1,0 +1,16 @@
+aiogram<4.0.0,>=3.13.1
+aiohttp<4.0.0,>=3.10.10
+SQLAlchemy<3.0.0,>=2.0.36
+asyncpg<1.0.0,>=0.29.0
+alembic<2.0.0,>=1.13.3
+beautifulsoup4<5.0.0,>=4.12.3
+lxml<6.0.0,>=5.3.0
+feedparser<7.0.0,>=6.0.11
+pydantic<3.0.0,>=2.9.2
+pydantic-settings<3.0.0,>=2.6.0
+loguru<1.0.0,>=0.7.2
+greenlet<4.0.0,>=3.1.1
+
+[dev]
+mypy<2.0.0,>=1.13.0
+ruff<1.0.0,>=0.7.1
